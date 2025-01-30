@@ -3,24 +3,26 @@ import java.util.Scanner;
 public class ToggleCase {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        
+
         System.out.print("Enter a string: ");
         String input = sc.nextLine();
-        
+
         sc.close();
-        
-        StringBuilder toggledString = new StringBuilder();
-        
-        for (char ch : input.toCharArray()) {
-            if (Character.isUpperCase(ch)) {
-                toggledString.append(Character.toLowerCase(ch));
-            } else if (Character.isLowerCase(ch)) {
-                toggledString.append(Character.toUpperCase(ch));
-            } else {
-                toggledString.append(ch);
+
+        char[] charArray = input.toCharArray();
+
+        for (int i = 0; i < charArray.length; i++) {
+            char ch = charArray[i];
+            
+            if (ch >= 'A' && ch <= 'Z') { 
+                charArray[i] = (char) (ch + 32);
+            } else if (ch >= 'a' && ch <= 'z') { 
+                charArray[i] = (char) (ch - 32);
             }
         }
-        
-        System.out.println("Toggled case string: " + toggledString.toString());
+
+        String toggledString = new String(charArray);
+
+        System.out.println("Toggled case string: " + toggledString);
     }
 }

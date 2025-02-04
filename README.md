@@ -4,7 +4,11 @@ Assigment-1
 
 Date: 19-01-25
 
-Topics: Practice Problem
+Summary: 1. Learned how to take user input and display results using
+	 2. Practiced applying formulas for calculations like area, volume, and conversions.
+	 3. Gained experience with variables, data types, and arithmetic operations.
+
+Name: Practice Problem
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 

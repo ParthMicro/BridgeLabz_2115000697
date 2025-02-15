@@ -4,10 +4,18 @@ Assigment-1
 
 Date: 19-01-25
 
+<<<<<<< HEAD
 Summary: 
 1. Learned how to take user input and display results using
 2. Practiced applying formulas for calculations like area, volume, and conversions.
 3. Gained experience with variables, data types, and arithmetic operations.
+=======
+Branch: feature-19-01-25
+
+Summary: 1. Learned how to take user input and display results using
+	 2. Practiced applying formulas for calculations like area, volume, and conversions.
+	 3. Gained experience with variables, data types, and arithmetic operations.
+>>>>>>> cbe4a24ffee730a3b176dd3f71d046e94afebab1
 
 Name: Practice Problem
 

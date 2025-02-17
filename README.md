@@ -260,12 +260,33 @@ Name: Submission of Sorting Algorithms
 
 Assignment-16
 
-Date: 
+Date: 16-02-25
 
 Summary:
+1. StringBuilder
+2. StringBuffer
+3. FileReader, 
+4. InputStreamReader
+5. Linear Search 
+6. Binary Search
 
-Branch: 
+Branch: feature-16-02-25 
 
-Name:
+Name: Submission of Linear and Binary Search
 
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Assignment-17
+
+Date: 17-02-25
+
+Summary:
+1. General Algorithm Best Practices
+2. Time and space Complexity Optimization
+
+Branch: feature-17-02-25
+
+Name: Submission of Algorithm's Runtime Analysis & Big-O Notation
+
+----------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------

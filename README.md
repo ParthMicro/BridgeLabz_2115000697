@@ -292,12 +292,18 @@ Name: Submission of Algorithm's Runtime Analysis & Big-O Notation
 
 Assignemnt-18
 
-Date: 
+Date: 18-02-25
 
 Summary:
+1. Introduction to Generics
+2. Type Parameters
+3. Generic Classes
+4. Generic Methods
+5. Bounded Type Parameters
+6. Wildcards
 
-Branch:
+Branch: feature-18-02-25
 
-Name: 
+Name: Submission of Java Generics
 
 ----------------------------------------------------------------------------------------------------------------------------------------------

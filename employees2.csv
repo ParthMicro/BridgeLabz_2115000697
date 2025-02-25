@@ -1,0 +1,6 @@
+ID,Name,Department,Email,Phone
+101,Alice Johnson,HR,alice.johnson@example.com,9876543210
+102,Bob Smith,IT,bob.smith@company,123456789   <-- Invalid Email & Phone
+103,Charlie Brown,Finance,charlie.brown@email.com,9998887776
+104,Diana Prince,Marketing,diana.prince@org.com,98765abcd0  <-- Invalid Phone
+105,Edward Wilson,Operations,edward.wilson@example.com,1234567890

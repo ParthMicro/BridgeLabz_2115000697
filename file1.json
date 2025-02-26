@@ -1,0 +1,9 @@
+{
+  "name": "Parth Goyal",
+  "email": "parthgoyal123@gmail.com",
+  "age": 22,
+  "address": {
+    "city": "Gwalior",
+    "zip": "474002"
+  }
+}

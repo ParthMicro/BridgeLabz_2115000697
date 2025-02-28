@@ -307,3 +307,150 @@ Branch: feature-18-02-25
 Name: Submission of Java Generics
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
+
+Assignemnt-19
+
+Date: 20-02-25
+
+Summary:
+1. Overview of Collections Framework
+2. What is the Collections Framework?
+3. Hierarchy of Collections Framework
+4. List Interface and Implementing Classes
+5. Set Interface and Implementing Classes
+6. Queue and Deque Interfaces
+7. Map Interface and Its Implementations
+8. Comparison of Different Implementations
+9. Real-World Use Cases and Best Practices.
+
+Branch: feature-20-02-25
+
+Name: Submission of Collections
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Assignemnt-20
+
+Date: 21-02-25
+
+Summary:
+Java Streams
+1. Java I/O Streams
+2. Types of Streams
+   -File Streams
+   -Object Streams
+   -ByteArray Streams
+   -Buffered Streams
+   -Reader and Writer
+3. Key Considerations
+4. Best Practices
+
+Exceptions 
+1. Types of Exceptions
+   -Checked Exceptions,
+   -Unchecked Exceptions
+   -Custom Exceptions
+2. Handling Exceptions 
+   -try-catch blocks
+   -try-catch-finally blocks
+   -try-with-resources statement
+   -throws clause
+   -throw statement
+3. Creating Custom Exceptions
+4, Extending Exception Class
+5. Defining Constructors
+
+Branch: feature-21-02-25
+
+Name: Submission of Java Streams || Submission of Exceptions
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Assignment-21
+
+Date: 22-02-25
+
+Summary:
+1. Regex 
+2. MetaCharacter
+3. Quantifier
+
+4. Common Patterns:
+   -Email Validation
+   -Password Strength
+   -Phone Number Format 
+5. Java Regex API 
+   -Pattern
+   -Matcher
+6. Methods:
+   -find()
+   -matches()
+   -replaceAll()
+7. Introduction to JUnit Framework
+8. JUnit Annotations
+9. Writing Test Cases
+10. Structure of a Test Class
+11. Assertions
+
+Branch: feature-22-02-25
+
+Name: Submission of Regex & JUnit
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Assignment-22
+
+Date: 24-02-25
+
+Summary:
+1. Introduction to Annotations
+   -Common Built-in Annotations
+   -Creating Custom Annotations
+   -Advanced Custom Annotations
+   -Real-World Use Cases
+   -Annotation Processing Tools
+
+2. Reflection
+   -Understanding of Reflection
+   -Using Reflection in Java
+   -Annotations and Reflection
+
+Branch: feature-24-02-25
+
+Name: Submission of Annotations, Reflection
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Assignment-23
+
+Date: 25-02-25
+
+Summary:
+1. Introduction to CSV
+2. Reading CSV Files
+3. Writing CSV Files
+4. Parsing CSV Data
+5. Data Validation
+
+Branch: feature-25-02-25
+
+Name: Submission of CSV Data Handling
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Assignment-24
+
+Date: 26-02-25
+
+Summary:
+1. Introduction to JSON
+2. Reading JSON Data
+3. Writing JSON Data
+4. Parsing JSON Data
+5. JSON Schema Validation
+
+Branch: feature-26-02-25
+
+Name: Submission of JSON Data
+
+----------------------------------------------------------------------------------------------------------------------------------------------
